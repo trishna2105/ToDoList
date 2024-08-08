@@ -32,6 +32,8 @@ This To-Do List application is a simple yet powerful tool for managing tasks. Bu
 ## Screenshots:
  ![image](https://github.com/user-attachments/assets/db59c91a-190c-4f0b-adcb-6b5e50167969)
 
+## Live Demo
+You can check out the live demo of the project here: [Live Demo](https://trishnaprojects.ccbp.tech/)
 
 ## Future Enhancements: 
 * Add due dates and priorities to tasks.
